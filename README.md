@@ -22,3 +22,6 @@ From the checkboxes you must use the row starting at 2 down and in order so no u
 The big text fields at the bottom of both tabs are the output for the scripts, all you have to do is copy paste them into your game.ini
 file, save and boot up and wala it will take effect. On the first tab there is a small bar under the output, it will gen the single line for
 the max exp override to also be posted in the game.ini file.
+
+
+Ark Script Gen 3-6 show the program in use. 3 is basic levels 1-10 starting with 100 exp to get to level 2 and an increase of 10 exp per level. 4 shows the same levels 1-10 but with using the Exp Increase as a 10% increase for the next level. Using pic 4 you get the info for level 10, then in pic 5 I show you how to use it to extend the levels from 10 up to 20. Lastly pic 6 shows the engrams, however only the first 2 sections ran, the reason is row 3 checkbox is not checked so neither row 3 or 4 ran even though they were filled. So make sure you use the correct boxes in order and to enable those you use.
